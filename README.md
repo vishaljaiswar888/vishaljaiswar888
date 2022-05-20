@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![data_science](https://user-images.githubusercontent.com/102510153/169458704-bed0f239-51af-4c0d-a05b-2012818cc44a.jpg)
+
 <!--
 **vishaljaiswar888/vishaljaiswar888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
