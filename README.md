@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### I am Vishal Jaiswar, a data science professional proficient in building machine learning and deep learning pipelines and conducting exploratory data analysis
+## I am Vishal Jaiswar, a data science professional proficient in building machine learning and deep learning pipelines and conducting exploratory data analysis
 
 
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
      
 - 📫 How to reach me: 
      - Linkedin : https://www.linkedin.com/in/vishaljaiswar/
-     - gmail : vishal.jaiswar888@gmail.com
+     - Gmail : vishal.jaiswar888@gmail.com
      
      
 - ⚡ Fun fact: 
