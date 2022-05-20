@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## I am Vishal Jaiswar, a data science professional proficient in building machine learning and deep learning pipelines and conducting exploratory data analysis
+### I am Vishal Jaiswar, a data science professional proficient in building machine learning and deep learning pipelines and conducting exploratory data analysis
 
 
 
