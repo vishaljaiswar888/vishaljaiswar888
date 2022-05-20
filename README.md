@@ -1,4 +1,4 @@
-# Hi there 👋
+# Welcome!!! 👋
 
 ![20220520_122405](https://user-images.githubusercontent.com/102510153/169471124-466b5ea4-3490-498a-9603-afaac14af01d.jpg)
 
@@ -23,18 +23,18 @@ Here are some ideas to get you started:
 
 - 🌱 Area of Expertise :
      - Python, MySQL
-     - Tensorflow, Sklearn, Pandas, Numpy
-     - Data Visualization
-     
+     - Tensorflow, Sklearn, Pandas, Numpy, Matplotlib, Seaborn
+   
+   
 - 💬 Ask me about :
      - Machine Learning
      - Deep learning
-     - Exploratory Data Analysis
-     - Artificial Neural Network
+     
      
 - 📫 How to reach me: 
      - Linkedin : https://www.linkedin.com/in/vishaljaiswar/
      - gmail : vishal.jaiswar888@gmail.com
+     
      
 - ⚡ Fun fact: 
      - Every 2 days we create as much information as we did from the beginning of time until 2003.
