@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-# Projects 
+# 📑 Projects 
 - Movie Recommender System
      - Link: https://free-movie-recommendation.herokuapp.com/
      - This Movie Recommendation System displays you 5 different movie names similar to the movie which you select from the list of 5000 movies. 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
      - A dynamic responsive website, where an admin can login, add, edit, delete posts & Users can contact directly to admin's email address & can navigate to next and previous posts.
    
    
-# Skills
+# 🤹‍♂️ Skills
    - Languages: Python
    - ML Libraries: Numpy, Pandas, Matplotlib, Seaborn, Sci-kit Learn
    - ML Frameworks: TensorFlow, Keras
