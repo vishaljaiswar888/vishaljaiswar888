@@ -16,27 +16,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### I am Vishal Jaiswar, a data science professional proficient in building machine learning and deep learning pipelines and conducting exploratory data analysis
+
+## Get into a position where I can learn new skills, then use those for the benefit of organization while engaging new challenges and learning.
 
 
 
-
-- 🌱 Area of Expertise :
-     - Python, MySQL
-     - Tensorflow, Sklearn, Pandas, Numpy, Matplotlib, Seaborn
+# Projects 
+- Movie Recommender System
+     - Link: https://free-movie-recommendation.herokuapp.com/
+     - This Movie Recommendation System displays you 5 different movie names similar to the movie which you select from the list of 5000 movies. 
+     - Interface is made using streamlit framework and deployed on heroku.
+- Blog Website using Python Flask web framework 
+     - Link: https://github.com/vishaljaiswar888/python-flask-blog-website/
+     - A dynamic responsive website, where an admin can login, add, edit, delete posts & Users can contact directly to admin's email address & can navigate to next and previous posts.
    
    
-- 💬 Ask me about :
-     - Machine Learning
-     - Deep learning
+# Skills
+   - Languages: Python
+   - ML Libraries: Numpy, Pandas, Matplotlib, Seaborn, Sci-kit Learn
+   - ML Frameworks: TensorFlow, Keras
+   - Web Frameworks: Flask, Streamlit
+   - Databases: MySQL
+   - IDE/Editors: Jupyter Notebook, Google Colab, Pycharm, VS Code
      
      
-- 📫 How to reach me: 
-     - Linkedin : https://www.linkedin.com/in/vishaljaiswar/
-     - Gmail : vishal.jaiswar888@gmail.com
+# 📫 How to reach me: 
+   - Linkedin : https://www.linkedin.com/in/vishaljaiswar/
+   - Gmail : vishal.jaiswar888@gmail.com
      
      
-- ⚡ Fun fact: 
-     - Every 2 days we create as much information as we did from the beginning of time until 2003.
-     - Over 90% of all the data in the world was created in the past 2 years
-     - The total amount of data being captured and stored by industry doubles every 1.2 years;
+# ⚡ Fun fact: 
+   - Every 2 days we create as much information as we did from the beginning of time until 2003.
+   - Over 90% of all the data in the world was created in the past 2 years
+   - The total amount of data being captured and stored by industry doubles every 1.2 years;
