@@ -1,4 +1,4 @@
-# Welcome!!! 👋
+# Welcome! 👋
 
 ![20220521_115254](https://user-images.githubusercontent.com/102510153/169638943-a6f2e08a-dec2-462b-af88-36f893af1521.jpg)
 
@@ -40,12 +40,12 @@ Here are some ideas to get you started:
    - IDE/Editors: Jupyter Notebook, Google Colab, Pycharm, VS Code
      
      
-# 📫 How to reach me: 
+# 📫 How to reach me 
    - Linkedin : https://www.linkedin.com/in/vishaljaiswar/
    - Gmail : vishal.jaiswar888@gmail.com
      
      
-# ⚡ Fun fact: 
+# ⚡ Fun fact 
    - Every 2 days we create as much information as we did from the beginning of time until 2003.
    - Over 90% of all the data in the world was created in the past 2 years
    - The total amount of data being captured and stored by industry doubles every 1.2 years;
