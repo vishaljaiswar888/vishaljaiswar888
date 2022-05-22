@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Get into a position where I can learn new skills, then use those for the benefit of organization while engaging new challenges and learnings.
+### Get into a position where I can learn new skills, then use those for the benefit of organization while engaging new challenges and learnings.
 
 
 
