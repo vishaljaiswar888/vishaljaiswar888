@@ -28,7 +28,8 @@ Here are some ideas to get you started:
      - Interface is made using streamlit framework and deployed on heroku.
 - Bank Loan Eligibility Predictor ML Model 
      - Link: https://github.com/vishaljaiswar888/bank-loan-eligibility-predictor/tree/master
-     - This is end-to-end machine learning model build using python's flask web framework for the deployment.
+     - This is end-to-end machine learning model which predicts whether a user is eligible for loan or not as per the inputs given.
+     - Interface is made using python’s flask web framework.
    
    
 # 🤹‍♂️ Skills
