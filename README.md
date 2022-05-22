@@ -26,9 +26,9 @@ Here are some ideas to get you started:
      - Link: https://free-movie-recommendation.herokuapp.com/
      - This Movie Recommendation System displays you 5 different movie names similar to the movie which you select from the list of 5000 movies. 
      - Interface is made using streamlit framework and deployed on heroku.
-- Blog Website using Python Flask web framework 
-     - Link: https://github.com/vishaljaiswar888/python-flask-blog-website/
-     - A dynamic responsive website, where an admin can login, add, edit, delete posts & Users can contact directly to admin's email address & can navigate to next and previous posts.
+- Bank Loan Eligibility Predictor ML Model 
+     - Link: https://github.com/vishaljaiswar888/bank-loan-eligibility-predictor/tree/master
+     - This is end-to-end machine learning model build using python's flask web framework for the deployment.
    
    
 # 🤹‍♂️ Skills
