@@ -26,6 +26,14 @@ Here are some ideas to get you started:
      - Link: https://free-movie-recommendation.herokuapp.com/
      - This Movie Recommendation System displays you 5 different movie names similar to the movie which you select from the list of 5000 movies. 
      - Interface is made using streamlit framework and deployed on heroku.
+
+
+- Real Estate House Price Prediction Machine Learning Model
+     - Link: https://github.com/vishaljaiswar888/real-estate-house-price-prediction/tree/master
+     - This is end-to-end Machine Learning Model which predicts the price of the house as per the inputs given by the user on the webpage. Say, Location, BHK, Number of Bathrooms and the Area in Square Feets.
+     - Interface is made using python’s flask web framework.
+
+
 - Bank Loan Eligibility Predictor ML Model 
      - Link: https://github.com/vishaljaiswar888/bank-loan-eligibility-predictor/tree/master
      - This is end-to-end machine learning model which predicts whether a user is eligible for loan or not as per the inputs given.
@@ -34,19 +42,27 @@ Here are some ideas to get you started:
    
 # 🤹‍♂️ Skills
    - Languages: Python
+   
    - ML Libraries: Numpy, Pandas, Matplotlib, Seaborn, Sci-kit Learn
-   - ML Frameworks: TensorFlow, Keras
+   
+   - ML Frameworks: TensorFlow, Keras (Beginner)
+   
    - Web Frameworks: Flask, Streamlit
+   
    - Databases: MySQL
+   
    - IDE/Editors: Jupyter Notebook, Google Colab, Pycharm, VS Code
      
      
 # 📫 How to reach me 
    - Linkedin : https://www.linkedin.com/in/vishaljaiswar/
+   
    - Gmail : vishal.jaiswar888@gmail.com
      
      
 # ⚡ Fun fact 
    - Every 2 days we create as much information as we did from the beginning of time until 2003.
+   
    - Over 90% of all the data in the world was created in the past 2 years
+   
    - The total amount of data being captured and stored by industry doubles every 1.2 years;
