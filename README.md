@@ -28,10 +28,12 @@ Here are some ideas to get you started:
      - Interface is made using python’s flask web framework.
 
 
+
 - Movie Recommender System
      - Link: https://free-movie-recommendation.herokuapp.com/
      - This Movie Recommendation System displays you 5 different movie names similar to the movie which you select from the list of 5000 movies. 
      - Interface is made using streamlit framework and deployed on heroku.
+
 
 
 - Bank Loan Eligibility Predictor ML Model 
