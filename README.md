@@ -22,16 +22,16 @@ Here are some ideas to get you started:
 
 
 # 📑 Projects 
+- Bangalore Real Estate Price Predictor Machine Learning Model
+     - Link: https://bangaluru-real-estate-price.herokuapp.com/
+     - This is end-to-end Machine Learning Model which predicts the price of the house as per the inputs given by the user on the webpage. Say, Location, BHK, Number of Bathrooms and the Area in Square Feets.
+     - Interface is made using python’s flask web framework.
+
+
 - Movie Recommender System
      - Link: https://free-movie-recommendation.herokuapp.com/
      - This Movie Recommendation System displays you 5 different movie names similar to the movie which you select from the list of 5000 movies. 
      - Interface is made using streamlit framework and deployed on heroku.
-
-
-- Real Estate House Price Prediction Machine Learning Model
-     - Link: https://github.com/vishaljaiswar888/real-estate-house-price-prediction/tree/master
-     - This is end-to-end Machine Learning Model which predicts the price of the house as per the inputs given by the user on the webpage. Say, Location, BHK, Number of Bathrooms and the Area in Square Feets.
-     - Interface is made using python’s flask web framework.
 
 
 - Bank Loan Eligibility Predictor ML Model 
